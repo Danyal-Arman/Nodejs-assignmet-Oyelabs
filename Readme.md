@@ -28,7 +28,7 @@ npm test
 
 ## Swagger
 
-http://localhost:3000/api-docs
+https://nodejs-assignmet-oyelabs.onrender.com/api-docs
 
 ## API Endpoints
 
