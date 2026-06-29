@@ -46,4 +46,4 @@ DELETE /users/:id
 
 - Pagination
 
-JWT (Not Implemented)
+-JWT
